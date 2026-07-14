@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6bfdfe12-b75f-4aa6-9f1f-4f48b9dcb700",
+  "path": "yuanqi-wallpaper-crawler",
+  "path_key": "yuanqi-wallpaper-crawler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

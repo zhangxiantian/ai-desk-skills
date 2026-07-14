@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a427c651-f979-41c1-a205-5ff2d7371d06",
+  "path": "xzdesktop-wallpaper-crawler",
+  "path_key": "xzdesktop-wallpaper-crawler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
