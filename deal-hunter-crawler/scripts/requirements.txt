@@ -1,0 +1,6 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+# 可选：SOCKS5 代理支持
+# PySocks>=1.7.1
+# 安装方式: pip install 'requests[socks]' PySocks
